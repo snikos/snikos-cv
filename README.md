@@ -1,5 +1,8 @@
+# demo
+CV: https://snikos.github.io/snikos-cv/
+
 # snikos-cv
 auto deploy gh-pages
 
-# demo
-CV: https://snikos.github.io/snikos-cv/
+# Back to git
+Git: https://github.com/snikos
