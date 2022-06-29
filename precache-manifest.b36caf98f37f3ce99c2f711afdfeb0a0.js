@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/snikos-cv/static/js/2.03c08138.chunk.js"
   },
   {
-    "revision": "d73462520089e2056ba751c6844c169c",
+    "revision": "623cfc7d0b92c745acd37ec6a2a7e2f6",
     "url": "/snikos-cv/index.html"
   }
 ];
