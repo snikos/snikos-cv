@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d44fc8ca4fcc2cb8baf3",
+    "revision": "abfefc14d5d0b9ea0fe5",
     "url": "/snikos-cv/static/css/main.7d69369b.chunk.css"
   },
   {
-    "revision": "d44fc8ca4fcc2cb8baf3",
-    "url": "/snikos-cv/static/js/main.e7582706.chunk.js"
+    "revision": "abfefc14d5d0b9ea0fe5",
+    "url": "/snikos-cv/static/js/main.c1fa5414.chunk.js"
   },
   {
     "revision": "aad20bddcbcd01195231",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/snikos-cv/static/js/2.03c08138.chunk.js"
   },
   {
-    "revision": "723381d2dea7554370f6d5bd072effbb",
+    "revision": "6710bf39b197511b7aaee70db9603e22",
     "url": "/snikos-cv/index.html"
   }
 ];
